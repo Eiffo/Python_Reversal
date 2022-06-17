@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-One of the solution for challange "Python Reversal" on the page CTFlearn.com
+One of the solution for challenge "Python Reversal" on the page CTFlearn.com
 	
 ## Technologies
 Project is created with:
