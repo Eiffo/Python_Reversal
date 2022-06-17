@@ -11,7 +11,7 @@ Project is created with:
 * Python version: 3.8.10
 	
 ## Setup
-To run this project, install it locally.
+To run this project, install it locally and open it for example in VS Code.
 <br>
 What you need, to run project:
 
